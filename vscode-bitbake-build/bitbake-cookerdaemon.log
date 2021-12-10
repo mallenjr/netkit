@@ -1,0 +1,164 @@
+--- Starting bitbake server pid 417356 at 2021-12-10 12:04:11.495401 ---
+ERROR: Error in compiling python function in /media/mallenjr/FAT~SHITE/dev/netkit/meta/classes/patch.bbclass, line 20:
+
+The code lines resulting in this error were:
+ *** 0001:def __anon_32__media_mallenjr_FAT~SHITE_dev_netkit_meta_classes_patch_bbclass(d):
+     0002:    if d.getVar('PATCHTOOL') == 'git' and d.getVar('PATCH_COMMIT_FUNCTIONS') == '1':
+     0003:        extratasks = bb.build.tasksbetween('do_unpack', 'do_patch', d)
+     0004:        try:
+     0005:            extratasks.remove('do_unpack')
+SyntaxError: invalid syntax (patch.bbclass, line 20)
+--- Starting bitbake server pid 417390 at 2021-12-10 12:04:11.813505 ---
+ERROR: Error in compiling python function in /media/mallenjr/FAT~SHITE/dev/netkit/meta/classes/patch.bbclass, line 20:
+
+The code lines resulting in this error were:
+ *** 0001:def __anon_32__media_mallenjr_FAT~SHITE_dev_netkit_meta_classes_patch_bbclass(d):
+     0002:    if d.getVar('PATCHTOOL') == 'git' and d.getVar('PATCH_COMMIT_FUNCTIONS') == '1':
+     0003:        extratasks = bb.build.tasksbetween('do_unpack', 'do_patch', d)
+     0004:        try:
+     0005:            extratasks.remove('do_unpack')
+SyntaxError: invalid syntax (patch.bbclass, line 20)
+ERROR: Error in compiling python function in /media/mallenjr/FAT~SHITE/dev/netkit/meta/classes/patch.bbclass, line 20:
+
+The code lines resulting in this error were:
+ *** 0001:def __anon_32__media_mallenjr_FAT~SHITE_dev_netkit_meta_classes_patch_bbclass(d):
+     0002:    if d.getVar('PATCHTOOL') == 'git' and d.getVar('PATCH_COMMIT_FUNCTIONS') == '1':
+     0003:        extratasks = bb.build.tasksbetween('do_unpack', 'do_patch', d)
+     0004:        try:
+     0005:            extratasks.remove('do_unpack')
+SyntaxError: invalid syntax (patch.bbclass, line 20)
+ERROR: Error in compiling python function in /media/mallenjr/FAT~SHITE/dev/netkit/meta/classes/patch.bbclass, line 20:
+
+The code lines resulting in this error were:
+ *** 0001:def __anon_32__media_mallenjr_FAT~SHITE_dev_netkit_meta_classes_patch_bbclass(d):
+     0002:    if d.getVar('PATCHTOOL') == 'git' and d.getVar('PATCH_COMMIT_FUNCTIONS') == '1':
+     0003:        extratasks = bb.build.tasksbetween('do_unpack', 'do_patch', d)
+     0004:        try:
+     0005:            extratasks.remove('do_unpack')
+SyntaxError: invalid syntax (patch.bbclass, line 20)
+--- Starting bitbake server pid 417440 at 2021-12-10 12:04:12.769037 ---
+ERROR: Error in compiling python function in /media/mallenjr/FAT~SHITE/dev/netkit/meta/classes/patch.bbclass, line 20:
+
+The code lines resulting in this error were:
+ *** 0001:def __anon_32__media_mallenjr_FAT~SHITE_dev_netkit_meta_classes_patch_bbclass(d):
+     0002:    if d.getVar('PATCHTOOL') == 'git' and d.getVar('PATCH_COMMIT_FUNCTIONS') == '1':
+     0003:        extratasks = bb.build.tasksbetween('do_unpack', 'do_patch', d)
+     0004:        try:
+     0005:            extratasks.remove('do_unpack')
+SyntaxError: invalid syntax (patch.bbclass, line 20)
+--- Starting bitbake server pid 417474 at 2021-12-10 12:04:13.070841 ---
+ERROR: Error in compiling python function in /media/mallenjr/FAT~SHITE/dev/netkit/meta/classes/patch.bbclass, line 20:
+
+The code lines resulting in this error were:
+ *** 0001:def __anon_32__media_mallenjr_FAT~SHITE_dev_netkit_meta_classes_patch_bbclass(d):
+     0002:    if d.getVar('PATCHTOOL') == 'git' and d.getVar('PATCH_COMMIT_FUNCTIONS') == '1':
+     0003:        extratasks = bb.build.tasksbetween('do_unpack', 'do_patch', d)
+     0004:        try:
+     0005:            extratasks.remove('do_unpack')
+SyntaxError: invalid syntax (patch.bbclass, line 20)
+ERROR: Error in compiling python function in /media/mallenjr/FAT~SHITE/dev/netkit/meta/classes/patch.bbclass, line 20:
+
+The code lines resulting in this error were:
+ *** 0001:def __anon_32__media_mallenjr_FAT~SHITE_dev_netkit_meta_classes_patch_bbclass(d):
+     0002:    if d.getVar('PATCHTOOL') == 'git' and d.getVar('PATCH_COMMIT_FUNCTIONS') == '1':
+     0003:        extratasks = bb.build.tasksbetween('do_unpack', 'do_patch', d)
+     0004:        try:
+     0005:            extratasks.remove('do_unpack')
+SyntaxError: invalid syntax (patch.bbclass, line 20)
+ERROR: Error in compiling python function in /media/mallenjr/FAT~SHITE/dev/netkit/meta/classes/patch.bbclass, line 20:
+
+The code lines resulting in this error were:
+ *** 0001:def __anon_32__media_mallenjr_FAT~SHITE_dev_netkit_meta_classes_patch_bbclass(d):
+     0002:    if d.getVar('PATCHTOOL') == 'git' and d.getVar('PATCH_COMMIT_FUNCTIONS') == '1':
+     0003:        extratasks = bb.build.tasksbetween('do_unpack', 'do_patch', d)
+     0004:        try:
+     0005:            extratasks.remove('do_unpack')
+SyntaxError: invalid syntax (patch.bbclass, line 20)
+--- Starting bitbake server pid 431570 at 2021-12-10 12:33:19.258068 ---
+ERROR: The following layer directories do not exist:
+ERROR:    /media/mallenjr/FAT~SHITE/dev/netkit/meta
+ERROR:    /media/mallenjr/FAT~SHITE/dev/netkit/meta-poky
+ERROR:    /media/mallenjr/FAT~SHITE/dev/netkit/meta-yocto-bsp
+ERROR: Please check BBLAYERS in /mnt/DATA/dev/netkit/vscode-bitbake-build/conf/bblayers.conf
+--- Starting bitbake server pid 431610 at 2021-12-10 12:33:19.527161 ---
+ERROR: The following layer directories do not exist:
+ERROR:    /media/mallenjr/FAT~SHITE/dev/netkit/meta
+ERROR:    /media/mallenjr/FAT~SHITE/dev/netkit/meta-poky
+ERROR:    /media/mallenjr/FAT~SHITE/dev/netkit/meta-yocto-bsp
+ERROR: Please check BBLAYERS in /mnt/DATA/dev/netkit/vscode-bitbake-build/conf/bblayers.conf
+ERROR: The following layer directories do not exist:
+ERROR: The following layer directories do not exist:
+ERROR:    /media/mallenjr/FAT~SHITE/dev/netkit/meta
+ERROR:    /media/mallenjr/FAT~SHITE/dev/netkit/meta
+ERROR:    /media/mallenjr/FAT~SHITE/dev/netkit/meta-poky
+ERROR:    /media/mallenjr/FAT~SHITE/dev/netkit/meta-poky
+ERROR:    /media/mallenjr/FAT~SHITE/dev/netkit/meta-yocto-bsp
+ERROR:    /media/mallenjr/FAT~SHITE/dev/netkit/meta-yocto-bsp
+ERROR: Please check BBLAYERS in /mnt/DATA/dev/netkit/vscode-bitbake-build/conf/bblayers.conf
+ERROR: Please check BBLAYERS in /mnt/DATA/dev/netkit/vscode-bitbake-build/conf/bblayers.conf
+--- Starting bitbake server pid 431652 at 2021-12-10 12:33:20.396771 ---
+ERROR: The following layer directories do not exist:
+ERROR:    /media/mallenjr/FAT~SHITE/dev/netkit/meta
+ERROR:    /media/mallenjr/FAT~SHITE/dev/netkit/meta-poky
+ERROR:    /media/mallenjr/FAT~SHITE/dev/netkit/meta-yocto-bsp
+ERROR: Please check BBLAYERS in /mnt/DATA/dev/netkit/vscode-bitbake-build/conf/bblayers.conf
+--- Starting bitbake server pid 431715 at 2021-12-10 12:33:20.657082 ---
+ERROR: The following layer directories do not exist:
+ERROR:    /media/mallenjr/FAT~SHITE/dev/netkit/meta
+ERROR:    /media/mallenjr/FAT~SHITE/dev/netkit/meta-poky
+ERROR:    /media/mallenjr/FAT~SHITE/dev/netkit/meta-yocto-bsp
+ERROR: Please check BBLAYERS in /mnt/DATA/dev/netkit/vscode-bitbake-build/conf/bblayers.conf
+ERROR: The following layer directories do not exist:
+ERROR: The following layer directories do not exist:
+ERROR:    /media/mallenjr/FAT~SHITE/dev/netkit/meta
+ERROR:    /media/mallenjr/FAT~SHITE/dev/netkit/meta
+ERROR:    /media/mallenjr/FAT~SHITE/dev/netkit/meta-poky
+ERROR:    /media/mallenjr/FAT~SHITE/dev/netkit/meta-poky
+ERROR:    /media/mallenjr/FAT~SHITE/dev/netkit/meta-yocto-bsp
+ERROR:    /media/mallenjr/FAT~SHITE/dev/netkit/meta-yocto-bsp
+ERROR: Please check BBLAYERS in /mnt/DATA/dev/netkit/vscode-bitbake-build/conf/bblayers.conf
+ERROR: Please check BBLAYERS in /mnt/DATA/dev/netkit/vscode-bitbake-build/conf/bblayers.conf
+--- Starting bitbake server pid 553127 at 2021-12-10 12:36:30.597955 ---
+ERROR: The following layer directories do not exist:
+ERROR:    /media/mallenjr/FAT~SHITE/dev/netkit/meta
+ERROR:    /media/mallenjr/FAT~SHITE/dev/netkit/meta-poky
+ERROR:    /media/mallenjr/FAT~SHITE/dev/netkit/meta-yocto-bsp
+ERROR: Please check BBLAYERS in /mnt/DATA/dev/netkit/vscode-bitbake-build/conf/bblayers.conf
+--- Starting bitbake server pid 554615 at 2021-12-10 12:36:31.043404 ---
+ERROR: The following layer directories do not exist:
+ERROR:    /media/mallenjr/FAT~SHITE/dev/netkit/meta
+ERROR:    /media/mallenjr/FAT~SHITE/dev/netkit/meta-poky
+ERROR:    /media/mallenjr/FAT~SHITE/dev/netkit/meta-yocto-bsp
+ERROR: Please check BBLAYERS in /mnt/DATA/dev/netkit/vscode-bitbake-build/conf/bblayers.conf
+ERROR: The following layer directories do not exist:
+ERROR: The following layer directories do not exist:
+ERROR:    /media/mallenjr/FAT~SHITE/dev/netkit/meta
+ERROR:    /media/mallenjr/FAT~SHITE/dev/netkit/meta
+ERROR:    /media/mallenjr/FAT~SHITE/dev/netkit/meta-poky
+ERROR:    /media/mallenjr/FAT~SHITE/dev/netkit/meta-poky
+ERROR:    /media/mallenjr/FAT~SHITE/dev/netkit/meta-yocto-bsp
+ERROR:    /media/mallenjr/FAT~SHITE/dev/netkit/meta-yocto-bsp
+ERROR: Please check BBLAYERS in /mnt/DATA/dev/netkit/vscode-bitbake-build/conf/bblayers.conf
+ERROR: Please check BBLAYERS in /mnt/DATA/dev/netkit/vscode-bitbake-build/conf/bblayers.conf
+--- Starting bitbake server pid 557969 at 2021-12-10 12:36:32.131501 ---
+ERROR: The following layer directories do not exist:
+ERROR:    /media/mallenjr/FAT~SHITE/dev/netkit/meta
+ERROR:    /media/mallenjr/FAT~SHITE/dev/netkit/meta-poky
+ERROR:    /media/mallenjr/FAT~SHITE/dev/netkit/meta-yocto-bsp
+ERROR: Please check BBLAYERS in /mnt/DATA/dev/netkit/vscode-bitbake-build/conf/bblayers.conf
+--- Starting bitbake server pid 559141 at 2021-12-10 12:36:32.529589 ---
+ERROR: The following layer directories do not exist:
+ERROR:    /media/mallenjr/FAT~SHITE/dev/netkit/meta
+ERROR:    /media/mallenjr/FAT~SHITE/dev/netkit/meta-poky
+ERROR:    /media/mallenjr/FAT~SHITE/dev/netkit/meta-yocto-bsp
+ERROR: Please check BBLAYERS in /mnt/DATA/dev/netkit/vscode-bitbake-build/conf/bblayers.conf
+ERROR: The following layer directories do not exist:
+ERROR: The following layer directories do not exist:
+ERROR:    /media/mallenjr/FAT~SHITE/dev/netkit/meta
+ERROR:    /media/mallenjr/FAT~SHITE/dev/netkit/meta
+ERROR:    /media/mallenjr/FAT~SHITE/dev/netkit/meta-poky
+ERROR:    /media/mallenjr/FAT~SHITE/dev/netkit/meta-poky
+ERROR:    /media/mallenjr/FAT~SHITE/dev/netkit/meta-yocto-bsp
+ERROR:    /media/mallenjr/FAT~SHITE/dev/netkit/meta-yocto-bsp
+ERROR: Please check BBLAYERS in /mnt/DATA/dev/netkit/vscode-bitbake-build/conf/bblayers.conf
+ERROR: Please check BBLAYERS in /mnt/DATA/dev/netkit/vscode-bitbake-build/conf/bblayers.conf
